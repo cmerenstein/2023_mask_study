@@ -1,0 +1,205 @@
+subject,visit,type,sample,group,sampler,n_days_this_mask
+blankswab,NA,CTRL,blankswab.1,na,na,NA
+blankswab,NA,CTRL,blankswab.2,na,na,NA
+DNAfreewater,NA,CTRL,DNAfreewater.1,na,na,NA
+DNAfreewater,NA,CTRL,DNAfreewater.2,na,na,NA
+EBLANK,NA,CTRL,EBLANK.MB1,na,na,NA
+EBLANK,NA,CTRL,EBLANK.MB2,na,na,NA
+EBLANK,NA,CTRL,EBLANK.MB3,na,na,NA
+EBLANK001,NA,CTRL,EBLANK001,na,na,NA
+EBLANK002,NA,CTRL,EBLANK002,na,na,NA
+EBLANK003,NA,CTRL,EBLANK003,na,na,NA
+EBLANK004,NA,CTRL,EBLANK004,na,na,NA
+EBLANK006,NA,CTRL,EBLANK006,na,na,NA
+EBLANK007,NA,CTRL,EBLANK007,na,na,NA
+EBLANK008,NA,CTRL,EBLANK008,na,na,NA
+EBLANK009,NA,CTRL,EBLANK009,na,na,NA
+EBLANK011,NA,CTRL,EBLANK011,na,na,NA
+EBLANK013,NA,CTRL,EBLANK013,na,na,NA
+MASK001,V1,SKIN,MASK001.V1.SKIN,one day group,Sampler2,1
+MASK001,V1,THROAT,MASK001.v1.throat,one day group,Sampler2,1
+MASK001,V2,MASK,MASK001.V2.MASK,one day group,Sampler2,1
+MASK001,V2,SKIN,MASK001.V2.SKIN,one day group,Sampler2,1
+MASK001,V2,THROAT,MASK001.v2.throat,one day group,Sampler2,1
+MASK001,V3,MASK,MASK001.V3.MASK,one day group,Sampler2,1
+MASK001,V3,SKIN,MASK001.V3.SKIN,one day group,Sampler2,1
+MASK001,V3,THROAT,MASK001.v3.throat,one day group,Sampler2,1
+MASK001,V1,MASK,MASK001.V1.MASK,one day group,Sampler2,1
+MASK002,V1,SKIN,MASK002.V1.SKIN,reuse group,Sampler2,1
+MASK002,V1,THROAT,MASK002.v1.throat,reuse group,Sampler2,1
+MASK002,V2,SKIN,MASK002.V2.SKIN,reuse group,Sampler2,1
+MASK002,V1,MASK,MASK002.V1.MASK,reuse group,Sampler2,1
+MASK002,V2,THROAT,MASK002.v2.throat,reuse group,Sampler2,1
+MASK002,V2,THROAT,MASK002.v2.throat.B,reuse group,Sampler2,1
+MASK002,V3,MASK,MASK002.V3.MASK,reuse group,Sampler2,7
+MASK002,V3,SKIN,MASK002.V3.SKIN,reuse group,Sampler2,7
+MASK002,V3,THROAT,MASK002.v3.throat,reuse group,Sampler2,7
+MASK003,V1,MASK,MASK003.V1.MASK,one day group,Sampler2,1
+MASK003,V1,SKIN,MASK003.V1.SKIN,one day group,Sampler2,1
+MASK003,V1,THROAT,MASK003.v1.throat,one day group,Sampler2,1
+MASK003,V2,MASK,MASK003.V2.MASK,one day group,Sampler2,1
+MASK003,V2,SKIN,MASK003.V2.SKIN,one day group,Sampler2,1
+MASK003,V2,SKIN,MASK003.V2.SKIN.B,one day group,Sampler2,1
+MASK003,V2,THROAT,MASK003.v2.throat,one day group,Sampler2,1
+MASK003,V3,MASK,MASK003.V3.MASK,one day group,Sampler2,1
+MASK003,V3,THROAT,MASK003.v3.throat,one day group,Sampler2,1
+MASK004,V1,SKIN,MASK004.V1.SKIN,reuse group,Sampler2,1
+MASK004,V1,THROAT,MASK004.v1.throat,reuse group,Sampler2,1
+MASK004,V2,SKIN,MASK004.V2.SKIN,reuse group,Sampler2,1
+MASK004,V2,SKIN,MASK004.V2.SKIN.B,reuse group,Sampler2,1
+MASK004,V2,THROAT,MASK004.v2.throat,reuse group,Sampler2,1
+MASK004,V2,THROAT,MASK004.v2.throat.B,reuse group,Sampler2,1
+MASK004,V3,MASK,MASK004.V3.MASK,reuse group,Sampler2,7
+MASK004,V3,SKIN,MASK004.V3.SKIN,reuse group,Sampler2,7
+MASK004,V3,THROAT,MASK004.v3.throat,reuse group,Sampler2,7
+MASK004,V1,MASK,MASK004.V1.MASK,reuse group,Sampler2,1
+MASK005,V1,MASK,MASK005.V1.MASK,one day group,Sampler2,1
+MASK005,V1,SKIN,MASK005.V1.SKIN,one day group,Sampler2,1
+MASK005,V1,THROAT,MASK005.v1.throat,one day group,Sampler2,1
+MASK005,V2,SKIN,MASK005.V2.SKIN,one day group,Sampler2,1
+MASK005,V2,SKIN,MASK005.V2.SKIN.B,one day group,Sampler2,1
+MASK005,V2,THROAT,MASK005.v2.throat,one day group,Sampler2,1
+MASK005,V3,MASK,MASK005.V3.MASK,one day group,Sampler2,1
+MASK005,V3,THROAT,MASK005.v3.throat,one day group,Sampler2,1
+MASK005,V2,MASK,MASK005.V2.MASK,one day group,Sampler2,1
+MASK006,V1,MASK,MASK006.V1.MASK,one day group,Sampler1,1
+MASK006,V1,SKIN,MASK006.V1.SKIN,one day group,Sampler1,1
+MASK006,V1,THROAT,MASK006.v1.throat,one day group,Sampler1,1
+MASK006,V2,SKIN,MASK006.V2.SKIN,one day group,Sampler1,1
+MASK006,V2,THROAT,MASK006.v2.throat,one day group,Sampler1,1
+MASK006,V3,MASK,MASK006.V3.MASK,one day group,Sampler1,1
+MASK006,V2,MASK,MASK006.V2.MASK,one day group,Sampler1,1
+MASK006,V3,SKIN,MASK006.V3.SKIN,one day group,Sampler1,1
+MASK006,V3,THROAT,MASK006.v3.throat,one day group,Sampler1,1
+MASK007,V1,MASK,MASK007.V1.MASK,reuse group,Sampler1,1
+MASK007,V1,SKIN,MASK007.V1.SKIN,reuse group,Sampler1,1
+MASK007,V1,THROAT,MASK007.v1.throat,reuse group,Sampler1,1
+MASK007,V2,SKIN,MASK007.V2.SKIN,reuse group,Sampler1,1
+MASK007,V2,THROAT,MASK007.v2.throat,reuse group,Sampler1,1
+MASK007,V3,MASK,MASK007.V3.MASK,reuse group,Sampler1,7
+MASK007,V3,SKIN,MASK007.V3.SKIN,reuse group,Sampler1,7
+MASK007,V3,THROAT,MASK007.v3.throat,reuse group,Sampler1,7
+MASK008,V1,MASK,MASK008.V1.MASK,one day group,Sampler1,1
+MASK008,V1,SKIN,MASK008.V1.SKIN,one day group,Sampler1,1
+MASK008,V1,THROAT,MASK008.v1.throat,one day group,Sampler1,1
+MASK008,V2,SKIN,MASK008.V2.SKIN,one day group,Sampler1,1
+MASK008,V3,MASK,MASK008.V3.MASK,one day group,Sampler1,1
+MASK008,V3,SKIN,MASK008.V3.SKIN,one day group,Sampler1,1
+MASK008,V3,THROAT,MASK008.v3.throat,one day group,Sampler1,1
+MASK008,V2,MASK,MASK008.V2.MASK,one day group,Sampler1,1
+MASK009,V1,MASK,MASK009.V1.MASK,reuse group,Sampler1,1
+MASK009,V1,THROAT,MASK009.v1.throat,reuse group,Sampler1,1
+MASK009,V2,SKIN,MASK009.V2.SKIN,reuse group,Sampler1,1
+MASK009,V2,THROAT,MASK009.v2.throat,reuse group,Sampler1,1
+MASK009,V1,SKIN,MASK009.V1.SKIN,reuse group,Sampler1,1
+MASK009,V3,SKIN,MASK009.V3.SKIN,reuse group,Sampler1,7
+MASK009,V3,THROAT,MASK009.v3.throat,reuse group,Sampler1,7
+MASK009,V3,MASK,MASK009.V3.MASK,reuse group,Sampler1,7
+MASK010,V1,MASK,MASK010.V1.MASK,one day group,Sampler1,1
+MASK010,V1,THROAT,MASK010.v1.throat,one day group,Sampler1,1
+MASK010,V2,MASK,MASK010.V2.MASK,one day group,Sampler1,1
+MASK010,V2,SKIN,MASK010.V2.SKIN,one day group,Sampler1,1
+MASK010,V2,THROAT,MASK010.v2.throat,one day group,Sampler1,1
+MASK010,V3,MASK,MASK010.V3.MASK,one day group,Sampler1,1
+MASK010,V3,SKIN,MASK010.V3.SKIN,one day group,Sampler1,1
+MASK010,V3,THROAT,MASK010.v3.throat,one day group,Sampler1,1
+MASK010,V1,SKIN,MASK010.V1.SKIN,one day group,Sampler1,1
+MASK011,V1,MASK,MASK011.V1.MASK,one day group,Sampler1,1
+MASK011,V1,THROAT,MASK011.v1.throat,one day group,Sampler1,1
+MASK011,V2,MASK,MASK011.V2.MASK,one day group,Sampler1,1
+MASK011,V2,SKIN,MASK011.V2.SKIN,one day group,Sampler1,1
+MASK011,V1,SKIN,MASK011.V1.SKIN,one day group,Sampler1,1
+MASK011,V2,SKIN,MASK011.V2.SKIN.B,one day group,Sampler1,1
+MASK011,V2,THROAT,MASK011.v2.throat,one day group,Sampler1,1
+MASK011,V3,MASK,MASK011.V3.MASK,one day group,Sampler1,1
+MASK011,V3,THROAT,MASK011.v3.throat,one day group,Sampler1,1
+MASK012,V1,MASK,MASK012.V1.MASK,reuse group,Sampler1,1
+MASK012,V1,SKIN,MASK012.V1.SKIN,reuse group,Sampler1,1
+MASK012,V2,SKIN,MASK012.V2.SKIN,reuse group,Sampler1,1
+MASK012,V2,THROAT,MASK012.v2.throat,reuse group,Sampler1,1
+MASK012,V3,MASK,MASK012.V3.MASK,reuse group,Sampler1,7
+MASK012,V3,SKIN,MASK012.V3.SKIN,reuse group,Sampler1,7
+MASK012,V3,THROAT,MASK012.v3.throat,reuse group,Sampler1,7
+MASK012,V3,THROAT,MASK012.v3.throat.B,reuse group,Sampler1,7
+MASK013,V1,MASK,MASK013.V1.MASK,one day group,Sampler1,1
+MASK013,V1,THROAT,MASK013.v1.throat,one day group,Sampler1,1
+MASK013,V2,MASK,MASK013.V2.MASK,one day group,Sampler1,1
+MASK013,V2,SKIN,MASK013.V2.SKIN,one day group,Sampler1,1
+MASK013,V2,THROAT,MASK013.v2.throat,one day group,Sampler1,1
+MASK013,V3,MASK,MASK013.V3.MASK,one day group,Sampler1,1
+MASK013,V3,SKIN,MASK013.V3.SKIN,one day group,Sampler1,1
+MASK013,V3,THROAT,MASK013.v3.throat,one day group,Sampler1,1
+MASK013,V1,SKIN,MASK013.V1.SKIN,one day group,Sampler1,1
+MASK014,V1,MASK,MASK014.V1.MASK,reuse group,Sampler1,1
+MASK014,V1,SKIN,MASK014.V1.SKIN,reuse group,Sampler1,1
+MASK014,V1,THROAT,MASK014.v1.throat,reuse group,Sampler1,1
+MASK014,V2,THROAT,MASK014.v2.throat,reuse group,Sampler1,1
+MASK014,V3,MASK,MASK014.V3.MASK,reuse group,Sampler1,7
+MASK014,V1,SKIN,MASK014.V1.SKIN.B,reuse group,Sampler1,1
+MASK014,V3,THROAT,MASK014.v3.throat,reuse group,Sampler1,7
+MASK014,V3,SKIN,MASK014.V3.SKIN,reuse group,Sampler1,7
+MASK015,V1,MASK,MASK015.V1.MASK,one day group,Sampler1,1
+MASK015,V1,SKIN,MASK015.V1.SKIN,one day group,Sampler1,1
+MASK015,V1,THROAT,MASK015.v1.throat,one day group,Sampler1,1
+MASK015,V2,SKIN,MASK015.V2.SKIN,one day group,Sampler1,1
+MASK015,V2,THROAT,MASK015.v2.throat,one day group,Sampler1,1
+MASK015,V3,MASK,MASK015.V3.MASK,one day group,Sampler1,1
+MASK015,V2,MASK,MASK015.V2.MASK,one day group,Sampler1,1
+MASK015,V3,THROAT,MASK015.v3.throat,one day group,Sampler1,1
+MASK015,V3,SKIN,MASK015.V3.SKIN,one day group,Sampler1,1
+MASK016,V1,MASK,MASK016.V1.MASK,reuse group,Sampler2,1
+MASK016,V1,SKIN,MASK016.V1.SKIN,reuse group,Sampler2,1
+MASK016,V1,THROAT,MASK016.v1.throat,reuse group,Sampler2,1
+MASK016,V2,SKIN,MASK016.V2.SKIN,reuse group,Sampler2,1
+MASK016,V2,THROAT,MASK016.v2.throat,reuse group,Sampler2,1
+MASK016,V3,MASK,MASK016.V3.MASK,reuse group,Sampler2,7
+MASK016,V3,SKIN,MASK016.V3.SKIN,reuse group,Sampler2,7
+MASK016,V3,THROAT,MASK016.v3.throat,reuse group,Sampler2,7
+MASK017,V1,MASK,MASK017.V1.MASK,one day group,Sampler2,1
+MASK017,V1,SKIN,MASK017.V1.SKIN,one day group,Sampler2,1
+MASK017,V1,THROAT,MASK017.v1.throat,one day group,Sampler2,1
+MASK017,V2,MASK,MASK017.V2.MASK,one day group,Sampler2,1
+MASK017,V2,SKIN,MASK017.V2.SKIN,one day group,Sampler2,1
+MASK017,V2,THROAT,MASK017.v2.throat,one day group,Sampler2,1
+MASK017,V3,MASK,MASK017.V3.MASK,one day group,Sampler2,1
+MASK017,V3,THROAT,MASK017.v3.throat,one day group,Sampler2,1
+MASK017,V3,SKIN,MASK017.V3.SKIN,one day group,Sampler2,1
+MASK018,V1,SKIN,MASK018.V1.SKIN,reuse group,Sampler2,1
+MASK018,V1,THROAT,MASK018.v1.throat,reuse group,Sampler2,1
+MASK018,V2,SKIN,MASK018.V2.SKIN,reuse group,Sampler2,1
+MASK018,V1,MASK,MASK018.V1.MASK,reuse group,Sampler2,1
+MASK018,V3,MASK,MASK018.V3.MASK,reuse group,Sampler2,7
+MASK018,V3,SKIN,MASK018.V3.SKIN,reuse group,Sampler2,7
+MASK018,V3,THROAT,MASK018.v3.throat,reuse group,Sampler2,7
+MASK018,V2,THROAT,MASK018.v2.throat,reuse group,Sampler2,1
+MASK019,V1,SKIN,MASK019.V1.SKIN,one day group,Sampler2,1
+MASK019,V1,THROAT,MASK019.v1.throat,one day group,Sampler2,1
+MASK019,V2,MASK,MASK019.V2.MASK,one day group,Sampler2,1
+MASK019,V1,MASK,MASK019.V1.MASK,one day group,Sampler2,1
+MASK019,V2,THROAT,MASK019.v2.throat,one day group,Sampler2,1
+MASK019,V3,MASK,MASK019.V3.MASK,one day group,Sampler2,1
+MASK019,V3,SKIN,MASK019.V3.SKIN,one day group,Sampler2,1
+MASK019,V3,THROAT,MASK019.v3.throat,one day group,Sampler2,1
+MASK019,V2,SKIN,MASK019.V2.SKIN,one day group,Sampler2,1
+MASK020,V1,SKIN,MASK020.V1.SKIN,reuse group,Sampler2,1
+MASK020,V1,THROAT,MASK020.v1.throat,reuse group,Sampler2,1
+MASK020,V2,SKIN,MASK020.V2.SKIN,reuse group,Sampler2,1
+MASK020,V1,MASK,MASK020.V1.MASK,reuse group,Sampler2,1
+MASK020,V3,MASK,MASK020.V3.MASK,reuse group,Sampler2,7
+MASK020,V3,SKIN,MASK020.V3.SKIN,reuse group,Sampler2,7
+MASK020,V3,THROAT,MASK020.v3.throat,reuse group,Sampler2,7
+MASK020,V2,THROAT,MASK020.v2.throat,reuse group,Sampler2,1
+MASKBLANK1,NA,CTRL,MASKBLANK1,na,na,NA
+MASKBLANK2,NA,CTRL,MASKBLANK2,na,na,NA
+MASKBLANK3,NA,CTRL,MASKBLANK3,na,na,NA
+mockdna,NA,CTRL,mockdna.1,na,na,NA
+mockdna,NA,CTRL,mockdna.2,na,na,NA
+mockdna,NA,CTRL,mockdna.3,na,na,NA
+POS,NA,CTRL,POS.MASK,na,na,NA
+SBLANK001,NA,CTRL,SBLANK001.throat,na,na,NA
+SBLANK002,NA,CTRL,SBLANK002.throat,na,na,NA
+SBLANK003,NA,CTRL,SBLANK003.throat,na,na,NA
+SKINBLANK,NA,CTRL,SKINBLANK.001,na,na,NA
+SKINBLANK,NA,CTRL,SKINBLANK.002,na,na,NA
+SKINBLANK,NA,CTRL,SKINBLANK.003,na,na,NA
+SKINBLANK004,NA,CTRL,SKINBLANK004,na,na,NA
