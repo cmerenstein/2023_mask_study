@@ -14,9 +14,10 @@ asv_df = read.table("../data/DADA2/feature_table_clean.txt", sep = "\t", header 
 asv = asv_df[,2:ncol(asv_df)]
 rownames(asv) = asv_df$OTU.ID
 
-## 20 count cutoff for individual ASVs, 1000 reads minimum for samples
+## 20 count cutoff for individual ASVs
+## --- Because we are interested in the background samples, only require 100 reads for now ---
 asv[asv < 20] = 0
-asv = asv[,colSums(asv) > 1000]
+asv = asv[,colSums(asv) > 500]
 
 ## phyloseq requires its own otu_table object
 asv_table = otu_table(asv, taxa_are_rows = T)
@@ -24,7 +25,7 @@ phylo = phyloseq(asv_table , tree)
 
 ## rarefied weighted UniFrac
 set.seed(02130)
-rare = rrarefy(t(asv), 1000)
+rare = rrarefy(t(asv), 500) ## obviously a low number to rarefy to, but necessary for controls
 rare_phylo = phyloseq( otu_table(rare, taxa_are_rows = F), tree)
 rare_weighted = UniFrac(rare_phylo, weighted = T)
 
@@ -64,7 +65,7 @@ pcoa_df$type = factor(pcoa_df$type, levels = c("Mask", "Throat", "Skin",
 pdf("../figures/sample_type_rarefied_pcoa.pdf")
 ggplot(pcoa_df, aes(x = Axis.1, y = Axis.2, color = type,  fill = days) ) +
     theme_classic() +
-    geom_point(shape = 21, size = 4, stroke = 2) +
+    geom_point(shape = 21, size = 3.5, stroke = 2, alpha = .9) +
     scale_fill_manual(values = c("white", "grey", "white")) +
     scale_color_manual(values = c("skyblue", "salmon", "palegreen4", "plum2",
                                 "lightpink3", "lightpink1", "darkorchid4"))
